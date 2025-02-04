@@ -3,13 +3,20 @@ Este proyecto analiza las multas impuestas por incumplimiento del RGPD (Reglamen
 
 ## 📂 Estructura del Proyecto
 GDPR_fines.xlsx → Base de datos original con las multas recopiladas.
+
 Sectores.xlsx → Clasificación de las empresas según su sector de actividad.
+
 Proyecto.ipynb → Notebook en Jupyter con el análisis de datos y generación de gráficos.
+
 Proyecto.pbix → Archivo de Power BI con visualizaciones interactivas.
+
 Informe.pdf → Documento con los resultados y hallazgos del análisis.
+
 Presentacion_sprint10.pdf → Presentación utilizada para exponer los resultados.
 [Presentación interactiva](https://www.canva.com/design/DAGeC0rGGJE/UZ7lZGbsPQfvMt_C7iVncQ/edit?utm_content=DAGeC0rGGJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Proyecto(PowerBI).pdf → Capturas y explicación del dashboard en Power BI.
+
 README.md → Este archivo, que describe el proyecto.
 
 ## 📝 Objetivo del Estudio
