@@ -10,8 +10,6 @@ Proyecto.ipynb → Notebook en Jupyter con el análisis de datos y generación d
 
 Proyecto.pbix → Archivo de Power BI con visualizaciones interactivas.
 
-Proyecto(PowerBI).pdf → Capturas y explicación del dashboard en Power BI.
-
 Informe.pdf → Documento con los resultados y hallazgos del análisis.
 
 Presentacion_sprint10.pdf → Presentación utilizada para exponer los resultados.
