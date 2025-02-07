@@ -12,8 +12,7 @@ Proyecto.pbix → Archivo de Power BI con visualizaciones interactivas.
 
 Informe.pdf → Documento con los resultados y hallazgos del análisis.
 
-Presentacion_sprint10.pdf → Presentación utilizada para exponer los resultados.
-[Presentación interactiva](https://www.canva.com/design/DAGeC0rGGJE/UZ7lZGbsPQfvMt_C7iVncQ/edit?utm_content=DAGeC0rGGJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Presentación utilizada para exponer los resultado → [Presentación interactiva](https://www.canva.com/design/DAGeC0rGGJE/UZ7lZGbsPQfvMt_C7iVncQ/edit?utm_content=DAGeC0rGGJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 README.md → Este archivo, que describe el proyecto.
 
