@@ -35,7 +35,7 @@ Se tradujeron y abreviaron las categorías de incumplimiento.
 Se creó una nueva columna para clasificar cada empresa por sector.
 Se eliminaron columnas con información que no aportaba valor al estudio.
 
-Python: Manipulación de datos
+Python: Manipulación de datos.
 Power BI: Dashboard interactivo con análisis por país, sector y reincidencia.
 Flourish: Creación de gráficos interactivos para análisis comparativos.
 
@@ -45,10 +45,8 @@ Empresas de telecomunicaciones y tecnología son las más reincidentes, mientras
 El monto de la multa no siempre es un factor disuasorio: algunas grandes empresas parecen asumir las sanciones como un costo operativo.
 Los países con mayor cantidad de sanciones no siempre son los que han impuesto las multas más altas.
 
-## 🏆 Conclusiones y Recomendaciones
+## 🏆 Conclusiones
 Las multas han sido efectivas en reducir infracciones en la mayoría de los casos, pero no en sectores altamente dependientes de datos personales.
-Sería útil una regulación más estricta con sanciones progresivas para empresas reincidentes.
-Es necesario complementar las multas con auditorías y medidas de cumplimiento más exigentes.
 
 
 ## 🤝 Contribuciones
