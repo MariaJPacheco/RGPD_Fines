@@ -1,5 +1,5 @@
 # Análisis de Multas por Incumplimiento del RGPD 📊
-Este proyecto analiza las multas impuestas por incumplimiento del RGPD (Reglamento General de Protección de Datos) para evaluar si estas sanciones han sido efectivas en reducir la reincidencia de infracciones. Se han utilizado técnicas de análisis de datos, visualización y modelado predictivo para explorar patrones en las sanciones aplicadas.
+Este proyecto analiza las multas impuestas por incumplimiento del RGPD (Reglamento General de Protección de Datos) para evaluar si estas sanciones han sido efectivas en reducir la reincidencia de infracciones. Se han utilizado técnicas de análisis de datos y visualización para explorar patrones en las sanciones aplicadas.
 
 ## 📂 Estructura del Proyecto
 GDPR_fines.xlsx → Base de datos original con las multas recopiladas.
